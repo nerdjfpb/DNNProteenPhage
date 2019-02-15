@@ -7,10 +7,12 @@ Bacteriophage, a virus that can kill a bacterium by infection and replication. U
 ### small dataset
 >dataSub.csv 
 
-### big dataset
+![Small Dataset](./smalldataset.jpg)
 
+### big dataset
 > final.csv
 
+![Big Dataset](./bigdataset.jpg)
 
 
 ## Codes
