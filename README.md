@@ -3,27 +3,22 @@ Bacteriophage, a virus that can kill a bacterium by infection and replication. U
 
 
 ## DataSets
-###small dataset
 
-```
-dataSub.csv 
-```
+### small dataset
+>dataSub.csv 
 
-###big dataset
+### big dataset
 
-```
-final.csv
-```
+> final.csv
+
 
 
 ## DNN Codes
 
-KFold_final 
-```
-Kfold With Anova (99 features)
-```
+### KFold_final 
+> Kfold With Anova (99 features)
 
-jack_knife_final 
-```
-Jack Knife with RFE (99 features)
-```
+
+### Jack_knife_final 
+> Jack Knife with RFE (99 features)
+
