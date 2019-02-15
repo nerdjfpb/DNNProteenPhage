@@ -23,7 +23,7 @@ Bacteriophage, a virus that can kill a bacterium by infection and replication. U
 > Jack Knife with RFE (99 features)
 
 ## Accuracy
-[Accuracy] (https://github.com/nerdjfpb/DNNProteenPhage/blob/master/accuracy.jpg)
+[Accuracy](./accuracy.jpg)
 
 ## Result
-[Result] (https://github.com/nerdjfpb/DNNProteenPhage/blob/master/restult.jpg)
+[Result](./restult.jpg)
